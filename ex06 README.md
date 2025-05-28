@@ -1,7 +1,7 @@
 # Exercise-6-Copy-and-Rename-Files
 ~~~
-Name : SUBISHESH P
-Reg.No : 212223230220
+Name : ADHITHYA A
+Reg.No : 212222220004
 ~~~
 ## Aim
 To create a UiPath workflow that copies all files from a source folder to a destination folder and renames them by appending a timestamp to each file name.
